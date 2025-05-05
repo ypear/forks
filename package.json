@@ -1,0 +1,28 @@
+{
+  "name": "@ypear/forks",
+  "version": "0.0.1",
+  "description": "Holepunch forked code archive needed by userbase",
+  "main": "forks.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ypear/forks"
+  },
+  "dependencies": {
+    "autobase": "file:./autobase",
+    "@lejeunerenard/autobase-manager": "file:./@lejeunerenard/autobase-manager",
+    "hyperbee": "file:./hyperbee-cas-prev-null"
+  },
+  "keywords": [
+    "local-first",
+    "offline-first",
+    "distributed",
+    "p2p",
+    "hypercore",
+    "corestore",
+    "hyperswarm",
+    "database",
+    "autobase"
+  ],
+  "author": "Benz Muircroft",
+  "license": "MIT"
+}
