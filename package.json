@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/ypear/forks"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "autobase": "file:./autobase",
     "@lejeunerenard/autobase-manager": "file:./@lejeunerenard/autobase-manager",
